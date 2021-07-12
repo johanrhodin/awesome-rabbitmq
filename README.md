@@ -27,6 +27,8 @@ Open a pull request to add more.
 
 ## Presentations and blog posts
 
+- https://github.com/rabbitmq/internals/ - RabbitMQ Internals, how RabbitMQ works internally
+
 ## Tools
 
 ## Other
