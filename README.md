@@ -39,3 +39,4 @@ Open a pull request to add more.
 ## Other
 
 - https://groups.google.com/forum/#!forum/rabbitmq-users The RabbitMQ-users mailing list.
+- https://discord.gg/VwWnkG3GWy The RabbitMQ community discord.
