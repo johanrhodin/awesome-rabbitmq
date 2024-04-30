@@ -18,6 +18,7 @@ Open a pull request to add more.
 - https://github.com/cloudamqp/amqp-client.rb/ - A simple and safe high-level Ruby client for AMQP 0-9-1.
 - https://www.rabbitmq.com/getstarted.html - A collection of RabbitMQ tutorials.
 - https://github.com/cloudamqp/amqp-client.js - `amqp-client.js` is an AMQP 0-9-1 client for both Node.js and browsers (using WebSocket).
+- https://github.com/rabbitmq/omq/ - A client that can speak AMQP 1.0, MQTT and STOMP.
 
 ## Books
 
