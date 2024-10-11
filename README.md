@@ -11,7 +11,7 @@ Open a pull request to add more.
 - [Presentations and blog posts](#presentatoins)
 - [Tools](#tools)
 
-## Libraries
+## Client libraries
 
 - https://github.com/cloudamqp/amqp-client.cr - Crystal client for AMQP 0-9-1.
 - http://rubybunny.info/ - Bunny is the most popular Ruby client for AMQP 0-9-1.
@@ -19,6 +19,7 @@ Open a pull request to add more.
 - https://www.rabbitmq.com/getstarted.html - A collection of RabbitMQ tutorials.
 - https://github.com/cloudamqp/amqp-client.js - `amqp-client.js` is an AMQP 0-9-1 client for both Node.js and browsers (using WebSocket).
 - https://github.com/rabbitmq/omq/ - A client that can speak AMQP 1.0, MQTT and STOMP.
+- https://github.com/bloomberg/rmqcpp - C++ library with good defaults.
 
 ## Books
 
