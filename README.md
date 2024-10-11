@@ -31,6 +31,9 @@ Open a pull request to add more.
 
 - https://github.com/rabbitmq/internals/ - RabbitMQ Internals, how RabbitMQ works internally
 
+### AMQP 1.0
+- https://www.rabbitmq.com/blog/2024/09/02/amqp-flow-control - Ten Benefits of AMQP 1.0 Flow Control
+
 ## Tools
 
 - https://github.com/bloomberg/amqpprox - An AMQP 0.9.1 proxy server, designed for use in front of an AMQP 0.9.1 compliant message queue broker such as RabbitMQ. Can redirect vhosts to different servers.
