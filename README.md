@@ -37,6 +37,7 @@ Open a pull request to add more.
 
 ## Tools
 
+- https://rabbitgui.com/ - A desktop client for managing RabbitMQ and dead letter queues.
 - https://github.com/bloomberg/amqpprox - An AMQP 0.9.1 proxy server, designed for use in front of an AMQP 0.9.1 compliant message queue broker such as RabbitMQ. Can redirect vhosts to different servers.
 - https://github.com/cloudamqp/amqproxy - An intelligent AMQP proxy with connection and channel pooling/reusing.
 - https://github.com/cloudamqp/amqpcat - AMQPCat, "netcat for AMQP". CLI tool to publish to and consume from AMQP servers.
