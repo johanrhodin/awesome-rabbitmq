@@ -40,6 +40,7 @@ Open a pull request to add more.
 - https://github.com/bloomberg/amqpprox - An AMQP 0.9.1 proxy server, designed for use in front of an AMQP 0.9.1 compliant message queue broker such as RabbitMQ. Can redirect vhosts to different servers.
 - https://github.com/cloudamqp/amqproxy - An intelligent AMQP proxy with connection and channel pooling/reusing.
 - https://github.com/cloudamqp/amqpcat - AMQPCat, "netcat for AMQP". CLI tool to publish to and consume from AMQP servers.
+- https://warrenops.io - Warren, a self-hosted web console for RabbitMQ dead-letter queues: read messages and their `x-death` history without consuming them, replay them to their original exchange and routing key over AMQP 0-9-1 with publisher confirms, with an audit log. Free Community edition; not open source.
 
 ## Other
 
